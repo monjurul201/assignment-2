@@ -10,9 +10,10 @@ body{
 
 }
 .jacket-item img{
-    height: 300px;
-    margin: auto;
-    width: 250px;
+   height: 400px;
+    margin: 0 auto;
+
+    
 }
 .product-card , .botton-footer{
     background-color: white;
@@ -31,7 +32,7 @@ body{
 
 @media(max-width:592px){
     .about-us img{
-        margin-left:12rem;
+        margin-left:7rem;
 }
 .about-text h4 , p{
     text-align: center;

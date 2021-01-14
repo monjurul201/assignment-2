@@ -31,7 +31,7 @@ body{
 
 @media(max-width:592px){
     .about-us img{
-        margin-left:15rem;
+        margin-left:12rem;
 }
 .about-text h4 , p{
     text-align: center;

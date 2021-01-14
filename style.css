@@ -1,5 +1,31 @@
+body{
+   font-family: 'Poppins', sans-serif;
+}
 .penguins-company h1{ 
     font-size: 4rem;
     font-weight: .9rem;
 
+}
+.jacket-item img{
+    height: 300px;
+    margin: auto;
+    width: 250px;
+}
+
+.product-card , .botton-footer{
+    background-color: white;
+    border: none;
+}
+.about-us img{
+    margin-left: 10px;
+    width: 80px;
+    height: 70px;
+}
+.about-us{
+    height: 130px;
+}
+.button-icon{
+    background-color: yellowgreen;
+    color:white;
+    
 }

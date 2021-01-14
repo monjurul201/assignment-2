@@ -28,3 +28,15 @@ body{
     color:white;
     
 }
+
+@media(max-width:592px){
+    .about-us img{
+        margin-left:15rem;
+}
+.about-text h4 , p{
+    text-align: center;
+}
+.divice{
+    order: first;
+}
+}
